@@ -1,5 +1,4 @@
 # homework.html
-<!Doctype html>
 <html>
 <head>
 <title>web应用开发技术</title>
